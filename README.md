@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @A76wg
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python and Javascript
-- 📫 Reach me at juejiqi21@gmail.com
+<i>Homepage of</i>
+<b>Alvis Sergeyevich Z. f.s.e.</b>
+
+- Bankai   卍
+- Tenkai   📈
+- Senpai   💃
+- Oppai    🩻
 
 <!---
 A76wg/A76wg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
